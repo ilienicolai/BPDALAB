@@ -1,0 +1,10 @@
+{
+  "name": "BPDA NFT",
+  "symbol": "UPBNFT",
+  "description": "Minted during the BPDA Course.",
+  "image": "https://ilienicolai.github.io/BPDALAB//image.png",
+  "attributes": [
+    { "trait_type": "Course", "value": "BPDA" },
+    { "trait_type": "Grade", "value": "A+" }
+  ]
+}
