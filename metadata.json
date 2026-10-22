@@ -1,10 +1,10 @@
 {
-  "name": "BPDA NFT",
+  "name": "My First Student NFT",
   "symbol": "UPBNFT",
   "description": "Minted during the BPDA Course.",
-  "image": "https://ilienicolai.github.io/BPDALAB//image.png",
+  "image": "https://ilienicolai.github.io/BPDALAB/image.png",
   "attributes": [
     { "trait_type": "Course", "value": "BPDA" },
-    { "trait_type": "Grade", "value": "10" }
+    { "trait_type": "Grade", "value": "A+" }
   ]
 }
